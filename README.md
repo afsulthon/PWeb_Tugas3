@@ -1,6 +1,6 @@
 # PWeb_Tugas3
-Tugas 3 Pemrograman Web 2023
-Membuat Laman Web Kursus
+Tugas 3 Pemrograman Web 2023  
+Membuat Laman Web Kursus  
 
 > Nama: Akmal Sulthon Fathulloh  
 > NRP: 5025211047  
